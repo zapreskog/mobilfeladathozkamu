@@ -1,0 +1,135 @@
+[
+{
+    "name": "GEIAL301-F",
+    "skill": "4",
+    "stamina": "3",
+    "description": "Számítógép architektúrák"
+  },
+  
+ {
+    "name": "GEIAK102-F",
+    "skill": "4",
+    "stamina": "3",
+    "description": "Informatikai rendszerek alapjai"
+  },
+ {
+    "name": "GTGVA010TV",
+    "skill": "3",
+    "stamina": "3",
+    "description": "Vállalkozási ismeretek"
+  },  
+ {
+    "name": "GEMAN100-F",
+    "skill": "3",
+    "stamina": "3",
+    "description": "Matematika informatikusoknak"
+  },
+ {
+    "name": "GEIAK301-F",
+    "skill": "0",
+    "stamina": "3",
+    "description": "Szakmai angol előkészítő. Ezt az órát maga tartja?"
+  },
+ {
+    "name": "GEIAL311-F",
+    "skill": "4",
+    "stamina": "3",
+    "description": "Programozás alapjai"
+  },
+ {
+    "name": "GEIAK101-F",
+    "skill": "6",
+    "stamina": "3",
+    "description": "Informatikai alapismeretek"
+  },
+ {
+    "name": "GEIAL321-F",
+    "skill": "6",
+    "stamina": "3",
+    "description": "Adatbázis kezelés alapjai"
+  },
+ {
+    "name": "GEIAL312-F",
+    "skill": "4",
+    "stamina": "6",
+    "description": "Objektum orientált programozás"
+  },
+ {
+    "name": "GEIAL302-F",
+    "skill": "3",
+    "stamina": "6",
+    "description": "Operációs rendszerek alapjai"
+  },
+ {
+    "name": "GTVIM018-F",
+    "skill": "3",
+    "stamina": "6",
+    "description": "Üzleti kommunikáció"
+  },
+ {
+    "name": "GEIAL303-F",
+    "skill": "5",
+    "stamina": "6",
+    "description": "Számítógép hálózatok"
+  },
+   {
+    "name": "GEIAL313-F",
+    "skill": "5",
+    "stamina": "6",
+    "description": "Szoftvertervezési módszerek"
+  },
+   {
+    "name": "GEIAL-304-F",
+    "skill": "5",
+    "stamina": "6",
+    "description": "Számítógép hálózatok menedzselése"
+  },
+   {
+    "name": "GEIAL305-F",
+    "skill": "5",
+    "stamina": "6",
+    "description": "Rendszerüzemeltetés"
+  },
+ {
+    "name": "GEIAL323-F",
+    "skill": "3",
+    "stamina": "9",
+    "description": "Információs rendszerek védelme"
+  },
+   {
+    "name": "GEIAL322-F",
+    "skill": "5",
+    "stamina": "9",
+    "description": "Adatbázis rendszerek menedzselése"
+  },
+   {
+    "name": "GEIAL307-F",
+    "skill": "6",
+    "stamina": "9",
+    "description": "Rendszerüzemeltetési gyakorlatok"
+  },
+   {
+    "name": "GEIAL308-F",
+    "skill": "6",
+    "stamina": "9",
+    "description": "Operációs rendszerek menedzselése"
+  },
+   {
+    "name": "GEIAL306-F",
+    "skill": "6",
+    "stamina": "9",
+    "description": "Számítógép hálózatok tervezése"
+  },
+   {
+    "name": "GEIAL314-F",
+    "skill": "4",
+    "stamina": "9",
+    "description": "Mobil programozás"
+  },
+   {
+    "name": "GEIALSzGyR-F",
+    "skill": "30",
+    "stamina": "12",
+    "description": "Szakmai gyakorlat"
+  }
+]
